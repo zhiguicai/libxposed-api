@@ -1,6 +1,9 @@
 
 
-# 
+# 编译环境说明
+  jkd-17
+  Android Studio Meerkat | 2024.3.1
+
 # github上for出来的缺少了annotations部分的几个文件
  1： 在https://gitlab.com/xposed_grp/LSPosed/libxposed/api/-/tags 找到 “标记/加注解”，并下载
 错误信息
